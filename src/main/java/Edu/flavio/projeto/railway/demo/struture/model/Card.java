@@ -13,6 +13,7 @@ public class Card {
     @Column(name = "available_limit",precision = 13,scale = 2)
     private BigDecimal limit;
 
+
     public Long getId() {
         return id;
     }
@@ -21,9 +22,7 @@ public class Card {
         this.id = id;
     }
 
-    public String getNumber() {
-        return number;
-    }
+    public String getNumber() { return number;    }
 
     public void setNumber(String number) {
         this.number = number;
