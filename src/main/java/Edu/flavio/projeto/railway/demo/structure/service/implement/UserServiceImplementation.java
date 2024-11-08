@@ -1,9 +1,9 @@
-package Edu.flavio.projeto.railway.demo.struture.service.implement;
+package Edu.flavio.projeto.railway.demo.structure.service.implement;
 
 
-import Edu.flavio.projeto.railway.demo.struture.model.User;
-import Edu.flavio.projeto.railway.demo.struture.repository.UserRepository;
-import Edu.flavio.projeto.railway.demo.struture.service.UserService;
+import Edu.flavio.projeto.railway.demo.structure.model.User;
+import Edu.flavio.projeto.railway.demo.structure.repository.UserRepository;
+import Edu.flavio.projeto.railway.demo.structure.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

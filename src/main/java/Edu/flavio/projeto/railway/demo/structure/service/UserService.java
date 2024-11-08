@@ -1,6 +1,6 @@
-package Edu.flavio.projeto.railway.demo.struture.service;
+package Edu.flavio.projeto.railway.demo.structure.service;
 
-import Edu.flavio.projeto.railway.demo.struture.model.User;
+import Edu.flavio.projeto.railway.demo.structure.model.User;
 
 public interface UserService {
 

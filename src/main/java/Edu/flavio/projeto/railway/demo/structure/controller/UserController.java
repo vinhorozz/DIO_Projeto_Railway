@@ -1,13 +1,12 @@
-package Edu.flavio.projeto.railway.demo.struture.Controller;
+package Edu.flavio.projeto.railway.demo.structure.controller;
 
 
-import Edu.flavio.projeto.railway.demo.struture.model.User;
-import Edu.flavio.projeto.railway.demo.struture.service.UserService;
+import Edu.flavio.projeto.railway.demo.structure.model.User;
+import Edu.flavio.projeto.railway.demo.structure.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-import org.springframework.web.util.UriBuilder;
 
 import java.net.URI;
 

@@ -1,4 +1,4 @@
-package Edu.flavio.projeto.railway.demo.struture.model;
+package Edu.flavio.projeto.railway.demo.structure.model;
 
 import jakarta.persistence.*;
 
