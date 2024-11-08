@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("http://localhost:9090/");
-		System.out.println("http://localhost:9090/user");
+		System.out.println("http://localhost:9090/users");
 		System.out.println("http://localhost:9090/h2-console/");
 	}
 
