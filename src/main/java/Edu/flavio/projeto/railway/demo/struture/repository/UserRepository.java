@@ -1,6 +1,6 @@
-package Edu.flavio.projeto.railway.demo.repository;
+package Edu.flavio.projeto.railway.demo.struture.repository;
 
-import Edu.flavio.projeto.railway.demo.model.User;
+import Edu.flavio.projeto.railway.demo.struture.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {
